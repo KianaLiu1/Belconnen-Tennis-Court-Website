@@ -1,0 +1,111 @@
+body{margin-top:10px;
+margin-bottom: 10px; 
+margin-right: 10px;
+margin-left:10px
+}
+
+
+#header{height:20%;
+background-color: black;}
+
+#sidebar{width:20%;
+height:80%;
+background-color: black;
+float:left;}
+
+#mainbody{width:80%;
+height:78%;
+background-color:black;
+float:right;
+
+    
+}
+
+#footer{height:2%; float:right;}
+
+
+#menu{
+width:100%;
+    height:100%;
+ 
+
+
+}
+
+
+#giflogo{position:relative; top:30px;  float: right; }
+
+
+
+
+#menu td{font-size: 50px;
+text-align: center;}
+
+#template{
+    width:100%;
+        height:100%;
+   background-color:black;
+    border-collapse:collapse;
+}
+.navigation{border:yellow 3px dashed;
+font-size: 30px;
+color:white;
+text-align: center;
+font:Comic Sans MS;
+    font-style:bold;
+padding:25px;
+margin:25px;
+}
+
+#map{margin:auto;
+display:block;
+margin-top: 100px;}
+
+#coach{width: 300px; height:450px; float:right;}
+
+
+
+
+.myself{text-align:center;}
+
+
+#me{ float:right;}
+
+
+
+.list{list-style:circle;}
+
+a:link{color:grey;}
+a:visited{color:lightcoral;}
+a:hover{color:aqua;}
+a:active{color:lightcyan;}
+
+#banner{margin:auto;
+display:block;
+width:100%;
+height:100%}
+
+
+#juniorpicture{width:auto;
+    height:auto;}
+
+
+.thumbnail{height:200px; width: 200px;
+display:inline; 
+position:relative; left:auto; right:auto;}
+
+#smallpicture{text-align:center; align-content:center;}
+
+
+
+#largeversion{height:450px; width:700px; margin:auto;
+display:block;
+}
+
+
+
+.newsimg{width:250px;height:130px; z-index: -1; float:right;
+}
+
+.grant{list-style: upper-latin;}
+

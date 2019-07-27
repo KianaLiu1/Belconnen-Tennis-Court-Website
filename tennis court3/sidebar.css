@@ -1,0 +1,19 @@
+#sidebar{width:150px;
+height:400px;
+background-color: antiquewhite;
+float:left}
+#sidebar ul {margin:0;
+padding:0
+}
+#sidebar li{list-style: none;
+float:left;
+display:table-cell;
+width:15px;
+height:400px;
+    line-height:400px;
+text-align: center;
+font-family:Tahoma, Geneva, sans-serif;
+font-size:16px}
+#sidebar li a{text-decoration: none;
+color:black}
+#sidebar li:Hover{background-color: beige;}
